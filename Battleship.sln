@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Battleship", "Battleship\Battleship.vcxproj", "{C2922A18-3406-4ECC-90F0-3B67C9C4A0BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B7AA53B1-BA21-45B5-B362-533A2112934C}"
+	ProjectSection(SolutionItems) = preProject
+		Морской бой.docx = Морской бой.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2922A18-3406-4ECC-90F0-3B67C9C4A0BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2922A18-3406-4ECC-90F0-3B67C9C4A0BD}.Debug|Win32.Build.0 = Debug|Win32
+		{C2922A18-3406-4ECC-90F0-3B67C9C4A0BD}.Release|Win32.ActiveCfg = Release|Win32
+		{C2922A18-3406-4ECC-90F0-3B67C9C4A0BD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
